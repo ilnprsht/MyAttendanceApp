@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">My Attendance App</string>
+    <string name="add_new_class">Добавить новую группу</string>
+    <string name="add_new_student">Добавить нового студента</string>
+    <string name="class_name">Номер группы</string>
+    <string name="subject_name">Название дисциплины</string>
+    <string name="cancel">ОТМЕНА</string>
+    <string name="add">ДОБАВИТЬ</string>
+    <string name="save">Сохранить</string>
+    <string name="add_student">Добавить студента</string>
+    <string name="id">ID</string>
+    <string name="name">Имя</string>
+    <string name="update">ИЗМЕНИТЬ</string>
+    <string name="update_class">Изменить информацию о группе</string>
+    <string name="update_student">Изменить информацию о студенте</string>
+    <string name="change_date">Изменить дату</string>
+    <string name="title">Title</string>
+    <string name="first_edit">first edit</string>
+    <string name="second_edit">second edit</string>
+</resources>

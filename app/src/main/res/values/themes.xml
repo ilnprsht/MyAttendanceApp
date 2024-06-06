@@ -1,0 +1,13 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Base.Theme.MyAttendanceApp" parent="Theme.AppCompat.Light.NoActionBar">
+        <item name="colorAccent">@color/pink</item>
+        <item name="colorPrimary">@color/black</item>
+        <item name="actionOverflowButtonStyle">@style/MyOverflowButtonStyle</item>
+    </style>
+
+    <style name="Theme.MyAttendanceApp" parent="Base.Theme.MyAttendanceApp" />
+    <style name="MyOverflowButtonStyle" parent="Widget.AppCompat.ActionButton.Overflow">
+        <item name="android:tint">@color/white</item>
+    </style>
+</resources>
